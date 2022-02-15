@@ -1,0 +1,4 @@
+name = "ConnectionStiffness"
+uuid = "b4c48780-65c6-46b5-87ac-5ca5330b2ba8"
+authors = ["Cris Moen <cris.moen@runtosolve.com>"]
+version = "0.1.0"
